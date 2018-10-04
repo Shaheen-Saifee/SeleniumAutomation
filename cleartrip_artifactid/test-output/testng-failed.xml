@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="cleartrip_testcases.flights_testcase">
+        <methods>
+          <include name="aftertest"/>
+          <include name="verifying_flashSale"/>
+          <include name="beforetest"/>
+          <include name="verify_heading"/>
+          <include name="verify_suheading"/>
+          <include name="verifying_pagination"/>
+        </methods>
+      </class> <!-- cleartrip_testcases.flights_testcase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

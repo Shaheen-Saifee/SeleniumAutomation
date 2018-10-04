@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-04T12:11:03Z" name="Suite" finished-at="2018-09-04T12:11:41Z" duration-ms="38191">
+    <groups>
+    </groups>
+    <test started-at="2018-09-04T12:11:03Z" name="Test" finished-at="2018-09-04T12:11:41Z" duration-ms="38191">
+      <class name="cleartrip_testcases.flights_testcase">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:cleartrip_testcases.flights_testcase@3d34d211]" started-at="2018-09-04T12:11:03Z" name="beforetest" finished-at="2018-09-04T12:11:24Z" duration-ms="21020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="verify_heading()[pri:0, instance:cleartrip_testcases.flights_testcase@3d34d211]" started-at="2018-09-04T12:11:24Z" name="verify_heading" finished-at="2018-09-04T12:11:25Z" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_heading -->
+        <test-method signature="verify_suheading()[pri:0, instance:cleartrip_testcases.flights_testcase@3d34d211]" started-at="2018-09-04T12:11:25Z" name="verify_suheading" finished-at="2018-09-04T12:11:25Z" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_suheading -->
+        <test-method signature="verifying_flashSale()[pri:0, instance:cleartrip_testcases.flights_testcase@3d34d211]" started-at="2018-09-04T12:11:25Z" name="verifying_flashSale" finished-at="2018-09-04T12:11:40Z" duration-ms="15681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifying_flashSale -->
+        <test-method signature="verifying_pagination()[pri:0, instance:cleartrip_testcases.flights_testcase@3d34d211]" started-at="2018-09-04T12:11:40Z" name="verifying_pagination" finished-at="2018-09-04T12:11:40Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifying_pagination -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:cleartrip_testcases.flights_testcase@3d34d211]" started-at="2018-09-04T12:11:40Z" name="aftertest" finished-at="2018-09-04T12:11:41Z" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- cleartrip_testcases.flights_testcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
